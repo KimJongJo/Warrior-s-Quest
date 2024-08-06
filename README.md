@@ -2,8 +2,8 @@
 # 전사의 모험(미니게임)
 html, css, javascript를 사용한 toy project 입니다.
 
-인원 : 1명
-프로젝트 기간 : 하루
+인원 : 1명 <br>
+프로젝트 기간 : 1일
 
 ## 메인화면
 ![image](https://github.com/user-attachments/assets/ae280907-4b59-4cb4-8f28-159e41c5b54f)
